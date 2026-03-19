@@ -1,8 +1,8 @@
-# Hey, soy Valentina 👋
+# Hey, I'm Valentina 👋
 
 ---
 
-## 🛠️ Stack & Herramientas
+## 🛠️ Stack & Tools
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/valentina-egger/" target="_blank">
